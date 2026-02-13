@@ -7,9 +7,6 @@
 <h3 align="center">一名热爱技术的开发者，专注于人工智能、软件工程与开源贡献。</h3>
 
 <p align="center">
-  <a href="https://github.com/tianmeng-xiu?tab=repositories">
-    <img alt="仓库数量" src="https://custom-icon-badges.demolab.com/github/repos/tianmeng-xiu?color=blue&logo=repo&logoColor=white" />
-  </a>
   <a href="https://github.com/tianmeng-xiu?tab=followers">
     <img alt="关注者" src="https://custom-icon-badges.demolab.com/github/followers/tianmeng-xiu?color=green&logo=user-add&logoColor=white" />
   </a>
